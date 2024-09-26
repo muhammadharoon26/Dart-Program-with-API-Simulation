@@ -1,0 +1,2 @@
+# Dart Program with API Simulation
+ Asynchronous Dart Program with API Simulation Write a Dart program that simulates fetching data from an API using Future and async/await. Create a function fetchWeatherData that returns weather information after a delay of 3 seconds. The main function should:  Call the fetchWeatherData function and print the weather details after it’s fetched. Demonstrate how to handle errors using try-catch.
